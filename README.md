@@ -1,32 +1,34 @@
-cassidoo.co
-==============
+<h1 align="center"><a href="https://lucas-angelo.github.io/portfolio" target="_blank">Personal Portfolio</a></h1>
 
-My personal website, version 3!
+<h3 align="center">
+    <p align="center">
+      <a href="#-about">About</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+      <a href="#-technologies-and-tools">Technologies and Tools</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+      <a href="#-license">License</a>
+  </p>
+</h3>
 
-Built from scratch with a little help from jQuery.
+<p align="center">
+  <a href="https://github.com/Lucas-Angelo/portfolio">
+    <img src="./website/img/index.png">
+  </a>
+</p>
 
-###The Dots
+## 🔖 About
 
-Be sure to click around the dots to mess with them. That was built from scratch, too.
+Personal responsive website with my technology portfolio. Made purely with HTML, CSS and Javascript using Bootstrap. Hosted on Github Pages with DNS custom domain. SEO system configured by sitemap.xml for search engines. Custom bootstrap template "Personal - v2.1.0".
 
-Seriously though.  This small snippet of JavaScript makes each circle:
+## 🚀 Technologies and Tools
 
-```js
-con.beginPath();
-con.arc(this.x, this.y, this.r, 0, Math.PI * 2, true);
-con.closePath();
-```
+* [HTML5](https://developer.mozilla.org/en-US/docs/Glossary/HTML5)
+* [CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS)
+* [JavaScript](https://www.javascript.com/)
+* [TypedJs](https://github.com/mattboldt/typed.js/)
+* [GithubPages](https://pages.github.com/)
 
-So cute.
+## 📝 License
 
-You'll notice a `lifetime` variable in the Dot settings.
-I originally made that because the Dots were going to fade out and die after a while, but that was too depressing.  So that name doesn't really mean much.
-But `lifetime` does play a part in the speed/smoothness of the Dot motion.  If you mess with it, you can see for yourself.
+- **[MIT license](http://opensource.org/licenses/mit-license.php)**
+- **[LICENSE](LICENSE)**
 
-###Hooray.
-
-If you want any other technical explanations I'd be happy to talk about it.  Until then, please enjoy this joke: How do you organize a space party? You planet.
-
-Please submit an issue if it doesn't work on your computer/device!
-
-Enjoy! :)
+---
