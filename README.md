@@ -1,32 +1,44 @@
-cassidoo.co
-==============
+# vCard - Personal portfolio
 
-My personal website, version 3!
+![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/vcard-personal-portfolio)
+![GitHub stars](https://img.shields.io/github/stars/codewithsadee/vcard-personal-portfolio?style=social)
+![GitHub forks](https://img.shields.io/github/forks/codewithsadee/vcard-personal-portfolio?style=social)
+[![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee)
+[![YouTube Video Views](https://img.shields.io/youtube/views/SoxmIlgf2zM?style=social)](https://youtu.be/SoxmIlgf2zM)
 
-Built from scratch with a little help from jQuery.
+vCard is a fully responsive personal portfolio website, responsive for all devices, built using HTML, CSS, and JavaScript.
 
-###The Dots
+## Demo
 
-Be sure to click around the dots to mess with them. That was built from scratch, too.
+![vCard Desktop Demo](./website-demo-image/desktop.png "Desktop Demo")
+![vCard Mobile Demo](./website-demo-image/mobile.png "Mobile Demo")
 
-Seriously though.  This small snippet of JavaScript makes each circle:
+## Prerequisites
 
-```js
-con.beginPath();
-con.arc(this.x, this.y, this.r, 0, Math.PI * 2, true);
-con.closePath();
+Before you begin, ensure you have met the following requirements:
+
+* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
+
+## Installing vCard
+
+To install **vCard**, follow these steps:
+
+Linux and macOS:
+
+```bash
+sudo git clone https://github.com/codewithsadee/vcard-personal-portfolio.git
 ```
 
-So cute.
+Windows:
 
-You'll notice a `lifetime` variable in the Dot settings.
-I originally made that because the Dots were going to fade out and die after a while, but that was too depressing.  So that name doesn't really mean much.
-But `lifetime` does play a part in the speed/smoothness of the Dot motion.  If you mess with it, you can see for yourself.
+```bash
+git clone https://github.com/codewithsadee/vcard-personal-portfolio.git
+```
 
-###Hooray.
+## Contact
 
-If you want any other technical explanations I'd be happy to talk about it.  Until then, please enjoy this joke: How do you organize a space party? You planet.
+If you want to contact me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
 
-Please submit an issue if it doesn't work on your computer/device!
+## License
 
-Enjoy! :)
+MIT
